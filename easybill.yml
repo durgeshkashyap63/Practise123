@@ -1,8 +1,8 @@
-version: 1.0.20
+version: 1.0.21
 files:
-  - url: paramount-Setup-1.0.20.exe
-    sha512: ckBrO8ZcqvPbqCvasc5ZWlH3LkB+VcHK1vzc4aB/ZOeQWI1nU57IkgppgGU1a7vQyrggUltPQS3jqsabd80kwg==
-    size: 80801710
-path: paramount-Setup-1.0.20.exe
-sha512: ckBrO8ZcqvPbqCvasc5ZWlH3LkB+VcHK1vzc4aB/ZOeQWI1nU57IkgppgGU1a7vQyrggUltPQS3jqsabd80kwg==
-releaseDate: '2023-02-10T13:34:19.329Z'
+  - url: paramount-Setup-1.0.21.exe
+    sha512: gwpHOZCJkcXdkCoP/P9SHd5lBSJ+POsgnQEkFhG7jB23JUjvXRv/L0TZO9nYPLzgac+KjrbsncL2OwvQ95lr9A==
+    size: 223044898
+path: paramount-Setup-1.0.21.exe
+sha512: gwpHOZCJkcXdkCoP/P9SHd5lBSJ+POsgnQEkFhG7jB23JUjvXRv/L0TZO9nYPLzgac+KjrbsncL2OwvQ95lr9A==
+releaseDate: '2023-02-19T17:38:39.527Z'
